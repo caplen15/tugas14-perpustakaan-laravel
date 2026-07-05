@@ -18,7 +18,7 @@
 - Update stok buku otomatis
 
 ![Pengembalian Buku](screenshots/detailtransaksi.png)
-![Pengembalian Buku](screenshots/konfirmasipengembalian.png)
+![Pengembalian Buku](screenshots/konfimasipengembalian.png)
 
 ---
 
